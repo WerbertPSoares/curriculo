@@ -22,11 +22,13 @@ Aqui você encontrará versões atualizadas do meu currículo em diferentes form
 
 ## 📁 Arquivos Disponíveis
 
-| Arquivo                      | Descrição                                    |
-|-----------------------------|----------------------------------------------|
-| `werbert-curriculo.pdf`     | Versão principal e atualizada do currículo   |
-| `werbert-curriculo-academico.pdf` | Versão com ênfase em produção acadêmica     |
-| `werbert-curriculo-tecnico.pdf`   | Versão com foco em tecnologia e projetos     |
+| Arquivo                          | Descrição                                           |
+|----------------------------------|-----------------------------------------------------|
+| `werbert-curriculo.pdf`          | Versão principal e atualizada do currículo          |
+| `werbert-curriculo-academico.pdf` | Versão com ênfase em produção acadêmica             |
+| `werbert-curriculo-tecnico.pdf`   | Versão com foco em tecnologia e projetos            |
+| `werbert-curriculo-chapeiro.pdf` | Versão adaptada para atuação como chapeiro e áreas operacionais |
+
 
 ## 🔗 Contato
 
